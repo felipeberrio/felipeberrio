@@ -36,6 +36,6 @@ Crear soluciones digitales para el mundo de la ingeniería y migrar mi carrera h
 
 ### 📫 ¿Conectamos?
 
-[LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/cristianfelipebm/))  
+[LinkedIn](https://www.linkedin.com/in/cristianfelipebm/) 
 📧 cristianberrio95@gmail.com
 
