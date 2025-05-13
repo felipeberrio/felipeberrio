@@ -70,7 +70,7 @@ Crear soluciones digitales para el mundo de la ingeniería y migrar mi carrera h
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([linkto:https://www.linkedin.com/in/cristianfelipebm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianfelipebm)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianberrio95@gmail.com)
 
 ---
